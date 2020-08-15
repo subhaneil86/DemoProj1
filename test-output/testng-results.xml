@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11659" started-at="2020-06-27T17:23:38Z" finished-at="2020-06-27T17:23:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11659" started-at="2020-06-27T17:23:38Z" finished-at="2020-06-27T17:23:49Z">
+      <class name="com.ecomm.shcart.RSAcademy1.GreenKart">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.ecomm.shcart.RSAcademy1.GreenKart@4edc67]" name="openBrowser" is-config="true" duration-ms="7372" started-at="2020-06-27T17:23:30Z" finished-at="2020-06-27T17:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="selectVegetable()[pri:0, instance:com.ecomm.shcart.RSAcademy1.GreenKart@4edc67]" name="selectVegetable" duration-ms="11627" started-at="2020-06-27T17:23:38Z" finished-at="2020-06-27T17:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectVegetable -->
+      </class> <!-- com.ecomm.shcart.RSAcademy1.GreenKart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
